@@ -60,8 +60,8 @@ I wanted something dedicated: an actual desktop tool where I could drop in a bea
 Clone this repo (or download `app.py`):
 
 ```bash
-git clone https://github.com/your-username/kinetic-studio.git
-cd kinetic-studio
+https://github.com/mpdev-git/instagram-music-sticker.git
+cd instagram-music-sticker
 ```
 
 Install the required packages:
