@@ -4,7 +4,7 @@
 > Built with Python, PySide6, and headless FFmpeg streaming. No subscription, no watermarks, completely offline.
 
 ---
-![instagram_lyrics_prores - Trim](https://github.com/user-attachments/assets/a46252ce-41e0-4ecd-885a-dac8acf014f7)
+<img width="1080" height="1080" alt="gif" src="https://github.com/user-attachments/assets/39537aef-ec88-400c-8a2e-935958bdd1ca" />
 
 ### Why I built this
 
