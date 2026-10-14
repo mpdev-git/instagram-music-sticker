@@ -165,4 +165,4 @@ Feel free to open an issue or submit a pull request!
 
 MIT License. Do whatever you want with it — commercial reels, music videos, or your own tools.
 
-## Disclaimer - I built this with Ai, not hiding it. I have to disclaim it.
+## Disclaimer - I built this with AI, not hiding it. I have to disclaim it.
