@@ -4,7 +4,7 @@
 > Built with Python, PySide6, and headless FFmpeg streaming. No subscription, no watermarks, completely offline.
 
 ---
-<img width="1080" height="1080" alt="gif" src="https://github.com/user-attachments/assets/39537aef-ec88-400c-8a2e-935958bdd1ca" />
+<img width="1080" height="1080" alt="gif" src="https://github.com/user-attachments/assets/15f8122e-7343-4bf0-a66a-3563254c8543" />
 
 ### Why I built this
 
